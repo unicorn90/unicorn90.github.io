@@ -142,6 +142,10 @@ nav ul a:hover{
 	text-align:left;
 	float: left;
 	}
+.work_top img{
+	width: 1400px;
+	margin: 0 auto;
+}
 .work_top h3{
 	line-height:26px;
 	font-size:60px;
@@ -270,7 +274,14 @@ nav ul a:hover{
     padding: 10px 25px;
     color: #fff;
     background: #444;
-
+}
+.btn.btn-xm {
+    width: 80px;
+    height: 40px;
+    padding: 10px 25px;
+    margin-top: 20px;
+    color: #fff;
+    background: #444;}
 
 
 
