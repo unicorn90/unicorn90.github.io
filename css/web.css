@@ -172,8 +172,8 @@ nav ul a:hover{
 }
 .icon{
 	float: left;
-	padding-top: 220px;
-	padding-bottom: 40px;
+	padding-top: 100px;
+	padding-bottom: 20px;
 	width: 500px;
 	height: 40px;
 }
@@ -267,14 +267,7 @@ nav ul a:hover{
 	}
 
 
-.btn.btn-sm {
-	float: left;
-    margin-top: 20px;
-    margin-bottom: 5px;
-    padding: 10px 25px;
-    color: #fff;
-    background: #444;
-}
+
 .btn.btn-xm {
     width: 80px;
     height: 40px;
