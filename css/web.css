@@ -274,7 +274,15 @@ nav ul a:hover{
     padding: 10px 25px;
     margin-top: 20px;
     color: #fff;
-    background: #333;}
+    background: #333;
+    border-radius:40px;
+    }
+
+.btn.btn-xm:hover{
+	box-shadow: 3px 3px 10px #888888;
+	background: #F9CE21;
+	color: #333;
+}
 
 
 
