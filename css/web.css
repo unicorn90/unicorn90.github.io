@@ -180,6 +180,9 @@ nav ul a:hover{
 .icon a{
 	padding-right: 20px;
 }
+.icon span{
+	color: #fff;
+}
 
 
 
