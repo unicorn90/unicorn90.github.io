@@ -178,8 +178,18 @@ nav ul a:hover{
 	height: 40px;
 }
 .icon a{
-	padding-right: 20px;
+	padding-right: 60px;
 }
+.icon a img{
+    -webkit-transition:0.5s ease all;
+    -moz-transition:0.5s ease all;
+    position:absolute;}
+
+.icon a img:hover{
+    -webkit-transform:translate(0,-10px);
+    -moz-transform:translate(0,-10px);
+}
+
 .icon span{
 	color: #fff;
 }
