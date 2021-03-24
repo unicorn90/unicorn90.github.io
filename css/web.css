@@ -249,6 +249,7 @@ nav ul a:hover{
 	padding-top:54px;
 	width:100%;
 	padding-bottom:40px;
+	border-radius: 30px;
 	}
 .pic_list li:nth-child(3n){
 	margin:0;
@@ -262,7 +263,6 @@ nav ul a:hover{
 	overflow:hidden;
 	position:relative;
 	padding-top:40px;
-	border-radius: 30px;
 	}
 .pic_list li a{
 	opacity:0;
