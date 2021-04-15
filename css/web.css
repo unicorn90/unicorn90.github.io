@@ -57,8 +57,8 @@ header{
 .logo a{
 	text-transform:uppercase;
 	font-family:"Arial Black", Gadget, sans-serif;
-	
 	font-size:22px;
+	transform: translateY(-50%);
 }
 nav{
 	float:right;}
