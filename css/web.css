@@ -58,7 +58,7 @@ header{
 	text-transform:uppercase;
 	font-family:"Arial Black", Gadget, sans-serif;
 	font-size:22px;
-	margin: 0 auto;
+	align-items: center;
 }
 nav{
 	float:right;}
