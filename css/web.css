@@ -56,7 +56,11 @@ header{
 	float:left;
 	padding-left:30px;
 }
-
+.logo img{
+        height:100px;
+	float:left;
+	padding-left:30px;
+}
 }
 .header_a a{
 	text-transform:uppercase;
