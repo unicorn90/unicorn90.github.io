@@ -61,6 +61,9 @@ header{
 	float:left;
 	padding-left:30px;
 }
+.header_a a{
+	height:100px;
+	float:left;
 }
 .header_a a{
 	text-transform:uppercase;
