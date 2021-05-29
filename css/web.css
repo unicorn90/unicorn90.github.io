@@ -334,5 +334,9 @@ nav ul a:hover{
 	color: #333;
 }
 
-
+.qr{
+      width:200px;
+      height:200px;
+	float: right;
+}
 
