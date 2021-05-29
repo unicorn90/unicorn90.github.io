@@ -186,7 +186,9 @@ nav ul a:hover{
 	padding-right:1400px;
 	padding-top:180px;
 	padding-bottom: 40px;
-	font-weight:600;}
+	font-weight:600;
+	box-shadow: inset 0 -2px 0 0 #F9CE21;
+}
 .work_top p{
 	text-align: left;
 	float: left;
