@@ -194,6 +194,7 @@ nav ul a:hover{
 	padding-top: 20px;
 	line-height: 40px;
 	font-size: 18px;
+	color: #666;
 }
 .work_top a:hover{
 	transition:all 0.5s;
