@@ -180,6 +180,7 @@ nav ul a:hover{
 }
 .work_top h3{
 	line-height:26px;
+	width:fit-content;
 	font-size:60px;
 	font-family:"Arial Black", Gadget, sans-serif;
 	color: #222;
