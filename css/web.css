@@ -272,7 +272,7 @@ nav ul a:hover{
 	width:100%;
 	padding-bottom:40px;
 	}
-.pic_list li:nth-child(3n){
+.pic_list li{
 	margin:0;
 	}
 .pic_list li{
