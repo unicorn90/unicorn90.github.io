@@ -175,6 +175,7 @@ nav ul a:hover{
 	width:1400px;
 	height:100%;
 	margin:0 auto;
+	padding-bottom:40px;
 	}
 .work_top{
 	text-align:left;
@@ -285,7 +286,6 @@ nav ul a:hover{
 	overflow:hidden;
 	position:relative;
 	padding-top:40px;
-	padding-bottom:20px;
 	border-radius:0 0 30px 0;
 	}
 .pic_list li a{
