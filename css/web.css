@@ -161,8 +161,14 @@ nav ul a:hover{
 
 
 
-
-	
+#drop{
+	width:1400px;
+	height:100%;
+	margin:0 auto;
+	}
+#drop img{
+        margin:0 auto;
+}	
 
 
 #work{
