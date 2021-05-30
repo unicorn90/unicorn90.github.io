@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>isome</title>
+    <desc>Created with Sketch.</desc>
+    <g id="banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="isome">
+            <circle id="椭圆形" fill="#70ADDA" cx="11" cy="11" r="11"></circle>
+            <rect id="矩形" fill="#FFFFFF" x="8" y="13" width="6" height="9"></rect>
+            <circle id="椭圆形" fill="#FFFFFF" cx="11" cy="8" r="3"></circle>
+        </g>
+    </g>
+</svg>
