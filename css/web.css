@@ -349,7 +349,7 @@ nav ul a:hover{
 .qr img{
       width:200px;
       height:200px;
-	float:right;
-	padding:100px 300px 0 0;
+	float:left;
+	padding:100px 0 0 0;
 }
 
