@@ -394,12 +394,13 @@ nav ul a:hover{
       width: calc(15px * 4);
       height: 15px;
       position: relative;
+      margin:0 auto;
     }
 
     .looping-rhombuses-spinner .rhombus {
       height: 15px;
       width: 15px;
-      background-color: #ff1d5e;
+      background-color: #222222;
       left: calc(15px * 4);
       position: absolute;
       margin: 0 auto;
